@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Follow yvfc_childrenofindia</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #fff7f3;
+      color: #333;
+      text-align: center;
+      padding: 50px 20px;
+    }
+    h1 {
+      color: #ef4934;
+      font-size: 2em;
+      margin-bottom: 40px;
+    }
+    a {
+      display: inline-block;
+      margin: 20px auto;
+      padding: 15px 25px;
+      background-color: #f5be49;
+      color: #000;
+      text-decoration: none;
+      font-size: 18px;
+      border-radius: 10px;
+      transition: all 0.3s ease;
+    }
+    a:hover {
+      background-color: #ef4934;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <h1>Follow yvfc_childrenofindia</h1>
+  <a href="https://www.instagram.com/yvfc_childrenofindia?igsh=MXkxZno5YThncWV1aw==" target="_blank">Instagram</a>
+  <br>
+  <a href="https://www.facebook.com/profile.php?id=61573789157093" target="_blank">Facebook</a>
+</body>
+</html>
